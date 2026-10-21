@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Extracted Streams - CODECS.COM
+
+#EXTINF:-1,DASH - High Quality - Stream 1
+https://ev-fuj-dxb-cdn-edge2.aws.playco.com/live/eds/NatGeo_AbuDhabi_HD/DASH/NatGeo_AbuDhabi_HD.mpd?8
+

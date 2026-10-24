@@ -8,7 +8,8 @@ https://api5.apistorageworks.shop/sokaprem/qjsxlwrbjhsb/v1/playlist.html
 https://api5.apistorageworks.shop/sokaprem/mkwsjijyyuha/v1/playlist.html
 #EXTINF:-1, Sports
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Arabic",LANGUAGE="ara",DEFAULT=YES,AUTOSELECT=YES,URI="https://castx.online/hls/bein-sports-1/audio_ara_01/index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Arabic",LANGUAGE="ara",DEFAULT=YES,AUTOSELECT=YES,URI=
+"https://castx.online/hls/bein-sports-1/audio_ara_01/index.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=1920x1080,FRAME-RATE=50,AUDIO="audio"
 https://castx.online/hls/bein-sports-1/1080p_50fps/index.m3u8
 

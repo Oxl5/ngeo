@@ -11,3 +11,5 @@ https://ter.eroouden.lol/nova1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
+#EXTINF:-1, natgeo
+https://dat10.databoostcloud.shop/sokaprem/mipfnocrregr/v0/playlist.html
